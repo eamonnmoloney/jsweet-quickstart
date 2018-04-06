@@ -3,3 +3,6 @@
 .generated
 .ts
 .jsweet
+.classpath
+.project
+*.iml
